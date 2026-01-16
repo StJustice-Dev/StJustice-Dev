@@ -3,7 +3,7 @@
 # - - - About Me - - - #
 Currently taking CSC-134 and getting ready to learn C++!
 
-# - - - My Special interests - - - #
+# - - - My Foo (Special interests) - - - #
 Im into all things creative, from programming to video games, motion design to game design, 
 art to animation, even music genres from fusion Jazz to Classical music. Above all of that,
 I am captivated by nature photography. 
