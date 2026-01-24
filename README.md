@@ -1,7 +1,7 @@
 # Hi, I'm St. Justice ✝️ #
 
 # - About Me ℹ️ - #
-Currently taking CSC-134 and getting ready to learn C++!
+Currently taking CSC-134 and CSC-151 and getting ready to learn C++ and Java.
 
 # - My Foo (Special interests) 🎯 - #
 Im into all things creative, from programming to video games, motion design to game design, 
